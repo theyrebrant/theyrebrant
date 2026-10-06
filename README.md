@@ -5,6 +5,6 @@ My pronouns are they/them
 
 Fun fact: I was born on International Euler's Number Day
 
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"p>
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theyrebrant&theme=tokyonight)
