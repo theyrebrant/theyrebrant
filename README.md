@@ -4,3 +4,5 @@ Currently learning C and looking forward to developing skills in other programmi
 My pronouns are they/them  
 
 Fun fact: I was born on International Euler's Number Day
+
+![](https:
