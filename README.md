@@ -9,7 +9,7 @@ Fun fact: I was born on International Euler's Number Day =)
 In my spare time I do some Sudoku puzzles, read books and play with my cat, Mafalda.
 
 #Languages and Tools I use:
-<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/></p><img src="https://jsdelivr.net" width="80" height="80" alt="LaTeX Logo" />
+<p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48"/></p>![LaTeX](https://shields.io)
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=theyrebrant&theme=tokyonight)
